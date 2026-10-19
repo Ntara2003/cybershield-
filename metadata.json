@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield SA",
+  "description": "South African cybersecurity awareness application developed under Ntara Enterprises (Pty) Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
